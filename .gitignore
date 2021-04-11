@@ -2,3 +2,4 @@
 /dnn_model
 /aclImdb
 aclImdb_v1.tar.gz
+/loadAndPreprocess/.ipynb_checkpoints
